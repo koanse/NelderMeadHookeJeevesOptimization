@@ -1,0 +1,10 @@
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Optimization\obj\Release\Optimization.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Optimization\obj\Release\Optimization.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Optimization\bin\Release\Optimization.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Optimization\bin\Release\Optimization.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Optimization\bin\Release\muWrapper.dll
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Optimization\bin\Release\NPlot.dll
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Optimization\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Optimization\obj\Release\Optimization.MainForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Optimization\obj\Release\Optimization.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Optimization\obj\Release\Optimization.csproj.GenerateResource.Cache

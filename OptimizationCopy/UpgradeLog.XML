@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Optimization">
+</Property><Property Name="Solution File" Value="C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Optimization.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Optimization.suo">
+</Property><Property Name="Date" Value="29 марта 2010 г.">
+</Property><Property Name="Time" Value="17:39">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Optimization.sln" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Backup\Optimization.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Optimization.suo" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Backup\Optimization.suo">
+</Event><Event ErrorLevel="0" Project="Optimization" Source="Optimization\Optimization.csproj" Description="Project file successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Backup\Optimization\Optimization.csproj">
+</Event><Event ErrorLevel="0" Project="Optimization" Source="Optimization\MainForm.cs" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Backup\Optimization\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="Optimization" Source="Optimization\MainForm.Designer.cs" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Backup\Optimization\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Optimization" Source="Optimization\Program.cs" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Backup\Optimization\Program.cs">
+</Event><Event ErrorLevel="0" Project="Optimization" Source="Optimization\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Backup\Optimization\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Optimization" Source="Optimization\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Backup\Optimization\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Optimization" Source="Optimization\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Backup\Optimization\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Optimization" Source="Optimization\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Backup\Optimization\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Optimization" Source="Optimization\MainForm.resx" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Backup\Optimization\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="Optimization" Source="Optimization\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\Optimization\Backup\Optimization\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Optimization" Source="Optimization\Optimization.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Optimization" Source="Optimization\Optimization.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Optimization.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Optimization.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Optimization" Source="Optimization\Optimization.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
